@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL FIRST="NAGABABU"
+      LAST="NALLURI"
+      PLACE="VIJ"
